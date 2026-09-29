@@ -8,7 +8,7 @@ desarrollo de código abierto de IBM para construir, simular y ejecutar circuito
 
 | # | Notebook | Tema | Abrir |
 |---|---|---|---|
-| 01 | [`01_nombre.ipynb`](notebooks/01_nombre.ipynb) | [Tema del notebook] | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/semillero-computacion-cuantica-urosario/Qiskit/blob/main/notebooks/01_nombre.ipynb) |
+| 01 | [`Qiskit_inicio.ipynb`](notebooks/Qiskit_inicio.ipynb) | [Tema del notebook] | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]((https://github.com/semillero-computacion-cuantica-urosario/Qiskit/blob/main/notebooks/Qiskit_inicio.ipynb) |
 
 ## ⚙️ Requisitos
 
